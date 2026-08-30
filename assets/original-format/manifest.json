@@ -1,0 +1,10 @@
+{
+  "asset": "hero-van.webp",
+  "source_url": "https://static.wixstatic.com/media/320086_5efe052931634e499583328c8a8dce1c~mv2.jpg",
+  "source_context": "https://www.carherohk.com/",
+  "source_sha256": "091ee4e771d9c85c402dbf9e6eb04370f7bed60bfc8620881748655bae57c64d",
+  "output_sha256": "70fba516403bcb191f3c2d8cd07f3544fadfcfa5dd4c626170c95b0a28a34323",
+  "source_size": [2048, 2048],
+  "output_size": [1600, 1600],
+  "rights_note": "First-party-hosted CarHero live-site material. Commercial reuse should be confirmed by CarHero or the rights holder."
+}
